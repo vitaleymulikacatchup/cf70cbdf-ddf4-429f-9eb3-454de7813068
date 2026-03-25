@@ -171,7 +171,7 @@ export default function LandingPage() {
           name: "Echoes of the Cosmos",
           price: "$1,200",
           variant: "Abstract Painting",
-          imageSrc: "https://pixabay.com/get/g5feb12fcb7fd5f736d8c52976033e93ee594883e731f7def5b118f476faab5fa31317fdaad0589bbf6f949f4040e6eb486fa9747ffe0eee0b616c28d65072578_1280.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34my1kGeblbsCcwUUCcjBY9WFkg/young-woman-drinking-coffee-1774371711067-7933f7fb.png",
           imageAlt: "Vibrant abstract painting with swirling colors",
         },
         {
