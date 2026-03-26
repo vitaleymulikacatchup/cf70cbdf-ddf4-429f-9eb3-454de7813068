@@ -103,7 +103,7 @@ export default function LandingPage() {
           href: "#",
         },
       ]}
-      imageSrc="https://pixabay.com/get/gf1bb2b07f883534380a9e10f6e64f302b3051451e36137813fb28ba6013f506b8d87799a391524e5e1919100a8cc41e58a1ff19b872e360ed101d5871a5a79cf_1280.jpg"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34my1kGeblbsCcwUUCcjBY9WFkg/young-woman-drinking-coffee-1774371711067-7933f7fb.png"
       imageAlt="Vibrant abstract painting with flowing colors"
       mediaAnimation="slide-up"
     />
